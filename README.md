@@ -4,7 +4,10 @@ Here are a few things about me:
 - 🎓 I am currently a student at Wayne State College
     - Major: Mathmatics Education (6-12) 🧮
     - Minor: Computer Science 💻
-- The rest of the things will be updated at a later date. :)
+- I sort of know how to use C++
+- 🌱 I’m currently learning Java
+- 🎮 One of my favorite parts of playing video games is finding glitches
+    - I don't mind lag because that is when I find the most glitches/bugs!
 <!--
 **AnnelieseKleinschmit/AnnelieseKleinschmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
