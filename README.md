@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Why hello there!
+My name is Anneliese Kleinschmit.
+Here are a few things about me:
+- 🎓 I am currently a student at Wayne State College
+    - Major: Mathmatics Education (6-12) 🧮
+    - Minor: Computer Science 💻
+- The rest of the things will be updated at a later date. :)
 <!--
 **AnnelieseKleinschmit/AnnelieseKleinschmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
